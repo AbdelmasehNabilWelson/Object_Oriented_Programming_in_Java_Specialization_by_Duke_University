@@ -8,5 +8,5 @@ This is the README file for the Specialization.
 ## Directories
 
 * COURSE 1
-    * Week 1
-    * week 3
+    * [Week 2](./COURSE%201/Week%202)
+    * [week 3](./COURSE%201/Week%203)
