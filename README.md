@@ -1,5 +1,5 @@
 # Object_Oriented_Programming_in_Java_Specialization_by_Duke_University
-This repo contains the solutions to the problems in Object_Oriented_Programming_in_Java_Specialization_by_Duke_University at coursera<br>
+This repo contains the solutions to the Assigments in [Object Oriented Programming in Java Specialization offered by Duke University](https://www.coursera.org/specializations/object-oriented-programming) at coursera<br>
 # COURSE 1
 
 This is the README file for the Specialization.
