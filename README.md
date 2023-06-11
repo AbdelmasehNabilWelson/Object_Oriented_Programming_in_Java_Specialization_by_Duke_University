@@ -5,6 +5,7 @@ This repo contains the solutions to the assignments in [Object Oriented Programm
 ## Directories
 
 * COURSE 1
+    * [week 1](./COURSE%201/Week%201)
     * [Week 2](./COURSE%201/Week%202)
     * [week 3](./COURSE%201/Week%203)
     * [week 4](./COURSE%201/Week%204)
