@@ -70,7 +70,7 @@ public class CaesarCipher {
         System.out.println("key is " + key + "\n" + encrypted);
     }
     
-    public void encryptTwoKeys() {
+    public void testEncryptTwoKeys() {
         String phrase = "First Legion";
         int key1 = 23, key2 = 17;
         System.out.println(encryptTwoKeys(phrase, key1, key2));
