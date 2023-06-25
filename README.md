@@ -9,3 +9,5 @@ This repo contains the solutions to the assignments in [Object Oriented Programm
     * [Week 2](./COURSE%201/Week%202)
     * [Week 3](./COURSE%201/Week%203)
     * [Week 4](./COURSE%201/Week%204)
+* COURSE 2
+    * [Week 1](./COURSE%202/Week%201)
