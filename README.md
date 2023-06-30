@@ -21,3 +21,6 @@ This repo contains the solutions to the assignments in [Object Oriented Programm
         * [TestCeaserCipher Class](./COURSE%202/Week%201/TestCaesarCipher.java)
         * [CeaserCipherTwo Class](./COURSE%202/Week%201/CaesarCipherTwo.java)
         * [TestCeaserCipherTwo Class](./COURSE%202/Week%201/TestCaesarCipherTwo.java)
+    * [Week 2](./COURSE%202/Week%202)
+        * [CharactersInPlay Class](./COURSE%202/Week%202/CharactersInPlay.java)
+        * [WordFrequencies Class](./COURSE%202/Week%202/WordFrequencies.java)
